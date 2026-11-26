@@ -13,6 +13,8 @@ export default function App() {
   );
 }
 
+// exemplo
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
