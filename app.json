@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "name": "Beatriz_CI_CD",
+    "slug": "beatriz-oliveira-testes-unitarios-ci-cd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,15 +12,17 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "ios": {
-      "supportsTablet": true
-    },
+   "ios": {
+  "supportsTablet": true,
+  "bundleIdentifier": "com.beaa014.exerciciotesteunitarios"
+},
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.beaa014.exerciciotesteunitarios"
     },
     "web": {
       "favicon": "./assets/favicon.png"
